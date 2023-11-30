@@ -1,0 +1,9 @@
+{
+	"name": "dataeng-adf-dv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86a3f575-97de-4bfe-9def-7796ad233f3f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
