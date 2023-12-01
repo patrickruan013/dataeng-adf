@@ -1,0 +1,10 @@
+{
+	"name": "dataengprojadls0dev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://dataengprojadls0dev.dfs.core.windows.net/"
+		}
+	}
+}
